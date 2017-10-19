@@ -1,6 +1,6 @@
 # Site settings
 title: Yonga Blog
-SEOTitle: ÓÂ¸ÒµÄ²©¿Í|Yonga Blog
+SEOTitle: Yonga Blog
 header-img: img/yghome-bg.jpg
 email: 745794535@qq.com
 description: "i just wanna run"
@@ -67,7 +67,7 @@ ga_domain: yonga.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: " ~~"
+sidebar-about-description: " i will be"
 sidebar-avatar: /img/avatar-yonga.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -84,15 +84,10 @@ friends: [
         title: "Hux Blog",
         href: "http://huangxuan.me"
     },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
+        title: "yonga",
+        href: "http://yonga.me"
+    }
+    ,{
         title: "It helps SEO",
         href: "#"
     }
