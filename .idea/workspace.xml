@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b0ca6a2-f8f2-4155-bda9-3ad1baf624c4" name="默认" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/home-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/icon_wechat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ygicon.ico" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/favicon.ico" afterPath="$PROJECT_DIR$/img/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.zh.md" afterPath="$PROJECT_DIR$/README.zh.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/avatar-yonga.JPG" afterPath="$PROJECT_DIR$/img/avatar-yonga.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags.html" afterPath="$PROJECT_DIR$/tags.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,12 +18,15 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="87" column="27" lean-forward="false" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
-              <folding />
+            <state relative-caret-position="-918">
+              <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <marker date="1508459482229" expanded="true" signature="352:357" ph="yonga" />
+                <marker date="1508459482229" expanded="true" signature="454:459" ph="yonga" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.zh.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.zh.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.zh.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
@@ -159,10 +154,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="x" value="561" />
+    <option name="width" value="974" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -188,6 +182,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="DianaGreen.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DianaGreen.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DianaGreen.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -241,18 +249,18 @@
       <updated>1508313081808</updated>
       <workItem from="1508313086219" duration="4857000" />
       <workItem from="1508327796190" duration="449000" />
-      <workItem from="1508384267370" duration="4740000" />
+      <workItem from="1508384267370" duration="7192000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10046000" />
+    <option name="totallyTimeSpent" value="12498000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="561" y="0" width="974" height="775" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.077976815" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15811966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -287,7 +295,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1508459482229" expanded="true" signature="352:357" ph="yonga" />
+            <marker date="1508459482229" expanded="true" signature="454:459" ph="yonga" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -295,7 +306,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1508459482229" expanded="true" signature="352:357" ph="yonga" />
+            <marker date="1508459482229" expanded="true" signature="454:459" ph="yonga" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -335,14 +349,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
           <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="87" column="27" lean-forward="false" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -416,6 +422,17 @@
         <state relative-caret-position="66">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-918">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1508459482229" expanded="true" signature="352:357" ph="yonga" />
+            <marker date="1508459482229" expanded="true" signature="454:459" ph="yonga" />
+          </folding>
         </state>
       </provider>
     </entry>
